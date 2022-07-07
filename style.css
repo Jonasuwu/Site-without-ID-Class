@@ -4,22 +4,37 @@ font-family: Arial, Helvetica, sans-serif;
 
 }
 
+header {
 
-img {
+    background-color: white;
 
-width: 800px;
+    margin-right: 10%;
+    
+    margin-left: 10%;
+    
+    display: block;
+    
+    border: 1px solid white;
+    
+    width: 80%;
+    
+    height: 550px;
 
-margin-left: 570px;
+    background-image: url(https://img.freepik.com/fotos-gratis/paisagem-tropical-palma-verao_1203-5352.jpg?w=2000);
 
+    background-repeat: no-repeat;
+
+    background-position: center;
+
+background-size: 100%;
 
 }
-
 
 h1 {
 
 position: absolute;
 
-margin-left: 45%;
+margin-left: 33%;
 
 font-size: 50px;
 
@@ -31,13 +46,20 @@ margin-top: 6%;
 
 main {
 
-border: none solid black;
+    background-color: white;
 
-width: 750px;
+    margin-right: 10%;
+    
+    margin-left: 10%;
+    
+    display: block;
+    
+    border: 1px solid white;
+    
+    width: 80%;
+    
+    height: 550px;
 
-margin-left: 570px;
-
-height: 500px;
 
 }
 
@@ -53,48 +75,65 @@ main p {
 
 text-align: left;
 
-
-
 }
+
 
 main img {
 
-width: 800px;    
+
+height: 300px;
+
+width: 1480px;
+
+}
 
 
-margin-left: 1px;
+footer {
+
+background-color: #CDCDCD;
+
+margin-right: 10%;
+
+margin-left: 10%;
+
+display: block;
+
+border: none solid black;
+
+width: 80%;
+
+height: 550px;
+
+
 
 
 }
 
-h3 {
 
-    margin: 15%;
+footer section {
 
+width: 30%;
 
-}
+height: 400px;
 
-h3:first-child {
+border: none solid black;
 
+margin-left: 3%;
 
-margin-left: 600px;
+margin-top: 3%;
 
+float: left;
 
-
-
-}
-
-h3:nth-child(2) {
-
-margin-left: 900px;
 
 
 }
 
-h3:last-child {
+section img {
 
+width: 100%;
 
-margin-left: 1200px;
+height: 200px;
+
 
 
 }
