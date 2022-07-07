@@ -6,17 +6,15 @@ font-family: Arial, Helvetica, sans-serif;
 
 header {
 
-border: none solid black;
-
 
 
 }
 
 img {
 
-width: 600px;
+width: 800px;
 
-margin-left: 320px;
+margin-left: 570px;
 
 
 }
@@ -26,30 +24,50 @@ h1 {
 
 position: absolute;
 
-margin-left: 40%;
+margin-left: 45%;
 
 font-size: 50px;
 
 color: whitesmoke;
 
-margin-top: 10%;
+margin-top: 6%;
 
 }
 
 main {
 
-border: 1px solid black;
+border: none solid black;
 
-width: 603px;
+width: 750px;
 
-margin-left: 25%;
+margin-left: 570px;
+
+height: 500px;
 
 }
 
 h2 {
 
-text-align: center;
+text-align: left;
 
+
+
+}
+
+main p { 
+
+text-align: left;
+
+
+
+}
+
+main img {
+
+width: 800px;    
+
+
+margin-left: 1px;
 
 
 }
