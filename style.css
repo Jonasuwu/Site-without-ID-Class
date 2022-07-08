@@ -137,3 +137,44 @@ height: 200px;
 
 
 }
+
+section input {
+
+border: 1px solid black;
+
+border-radius: 40px;
+
+width: 100px;
+
+height: 40px;
+
+color: black;
+
+
+}
+
+input[name="CLIC"] {
+
+
+background-color: aqua;
+
+color: white;
+
+}
+
+input[name="SENAC"] {
+
+background-color: blueviolet;
+
+
+color: white;
+
+}
+
+input[name="TERRA"] {
+
+background-color: cornflowerblue;
+
+color: white;
+
+}
